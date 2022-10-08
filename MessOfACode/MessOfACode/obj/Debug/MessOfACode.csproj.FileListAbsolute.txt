@@ -1,0 +1,8 @@
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\obj\Debug\MessOfACode.csproj.AssemblyReference.cache
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\obj\Debug\MessOfACode.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\obj\Debug\MessOfACode.csproj.CoreCompileInputs.cache
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\bin\Debug\MessOfACode.exe.config
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\bin\Debug\MessOfACode.exe
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\bin\Debug\MessOfACode.pdb
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\obj\Debug\MessOfACode.exe
+C:\Users\Kids13\source\repos\MessOfACode\MessOfACode\obj\Debug\MessOfACode.pdb
